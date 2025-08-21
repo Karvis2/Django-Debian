@@ -1,0 +1,80 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="MZaySZk5pe2Nv42a3EA0">
+    <mxGraphModel dx="1207" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;curved=1;" edge="1" parent="1" source="EMw8RhWxz7SqIVuhb6WY-1" target="EMw8RhWxz7SqIVuhb6WY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-1" value="Internet" style="verticalLabelPosition=middle;sketch=0;aspect=fixed;html=1;verticalAlign=middle;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="50" width="291.13" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-2" value="Etätyöasema" style="verticalLabelPosition=top;sketch=0;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.484;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;endArrow=none;endFill=0;strokeWidth=4;" edge="1" parent="1" source="EMw8RhWxz7SqIVuhb6WY-2" target="EMw8RhWxz7SqIVuhb6WY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="EMw8RhWxz7SqIVuhb6WY-5" target="EMw8RhWxz7SqIVuhb6WY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;curved=1;" edge="1" parent="1" source="EMw8RhWxz7SqIVuhb6WY-5" target="EMw8RhWxz7SqIVuhb6WY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-5" value="Lähiverkko&lt;div&gt;192.168.196.024&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440.5" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;curved=1;" edge="1" parent="1" source="EMw8RhWxz7SqIVuhb6WY-6" target="EMw8RhWxz7SqIVuhb6WY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-6" value="Reititin" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.router;" vertex="1" parent="1">
+          <mxGeometry x="710" y="229.5" width="55" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;curved=1;" edge="1" parent="1" source="EMw8RhWxz7SqIVuhb6WY-7" target="EMw8RhWxz7SqIVuhb6WY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-7" value="Palomuuri" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;" vertex="1" parent="1">
+          <mxGeometry x="621.13" y="300" width="75" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-8" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" vertex="1" parent="1">
+          <mxGeometry x="10" y="482" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-9" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="560" width="565" height="288" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-14" value="postgreSQL 13" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" vertex="1" parent="1">
+          <mxGeometry x="650" y="580" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-15" value="INGINIX" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-16" value="Django" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_service;" vertex="1" parent="1">
+          <mxGeometry x="450" y="730" width="63" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-17" value="Tabletti" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tablet_2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="82" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-18" value="Gunicorn" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" vertex="1" parent="1">
+          <mxGeometry x="443.5" y="600" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;curved=1;" edge="1" parent="1" target="EMw8RhWxz7SqIVuhb6WY-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319" y="358" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;curved=1;" edge="1" parent="1" source="EMw8RhWxz7SqIVuhb6WY-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EMw8RhWxz7SqIVuhb6WY-30" value="Langattoman verkon&amp;nbsp;&lt;div&gt;tukiasema&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="260" y="307" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
